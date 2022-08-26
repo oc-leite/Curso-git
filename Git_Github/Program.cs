@@ -10,6 +10,9 @@ namespace Git_Github {
             Console.WriteLine("Olá MUndo, Bom dia");
             Console.WriteLine("Como você esta?");
             Console.WriteLine("espero que bem");
+
+            Console.WriteLine("1+1=" + 1+1);
+            Console.WriteLine("1+2=" + 1 + 2);
         }
     }
 }
