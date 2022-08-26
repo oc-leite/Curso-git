@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 namespace Git_Github {
     internal class Program {
         static void Main(string[] args) {
+            Console.WriteLine("Olá MUndo, Bom dia");
         }
     }
 }
